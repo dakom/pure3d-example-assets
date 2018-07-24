@@ -184,7 +184,7 @@
         },
         {
 
-            "translation": [0,0,5],
+            "translation": [0,0,3],
             "extensions" : {
                 "KHR_lights_punctual": {
                     "light" : 2
@@ -208,8 +208,6 @@
                 },
                 {
                     "spot": {
-                        "innerConeAngle": 0.785398163397448,
-                        "outerConeAngle": 1.57079632679
                     },
                     "color": [
                         1.0,
